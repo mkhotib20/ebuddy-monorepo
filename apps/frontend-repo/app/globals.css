@@ -1,0 +1,9 @@
+:root {
+  --primary-color: #1976d2;
+  --page-bg: #f5f5f5;
+}
+
+html,
+body {
+  height: 100%;
+}
